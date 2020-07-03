@@ -8,3 +8,5 @@ jdk1.7
 int i
 kilal;
 
+测试地点
+
